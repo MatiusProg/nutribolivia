@@ -1,0 +1,207 @@
+Serie: Documentos Técnicos
+TABLA BOLIVIANA DE COMPOSICIÓN DE ALIMENTOS
+COMPOSICIÓN POR 100 GRAMOS DE PORCIÓN COMESTIBLE
+CODIGO
+NOMBRE ALIMENTO
+g
+ENERGIA HUMEDAD PROTEINA GRASA CHO TOTAL F.CRUDA CENIZA
+Kcal
+g
+Ca
+9
+g
+g
+9
+mg
+P
+mg
+Fe
+mg
+VIT, A
+μg
+TIAMINA
+mg
+RIBOFLAV NIACINA
+mg
+mg
+VIT.C
+mg
+C80
+Toronja blanca sin membrana
+681 Tumbo
+44
+88.90 0.56
+0.20
+10.03
+021
+0.31
+14.0
+20.0
+0.22
+0.0
+0.04
+0.06 0.60
+36.50
+C82
+Tuna var. Amarilla
+70
+82.45 1.06
+0.16
+16.03
+6.32
+030
+34.0
+200
+0.50
+0.03
+0.02
+67 83.20 0.98 0.53 14.68 6.46 0.8
+14.63 6.46 0.61 120 352 070 972 003 004 051 55.20
+5.0
+0.30
+17.00
+Tuna var 66 83.65 1:14 0.25 1469 2.38 0.27 23.5 21.4 0.51 44 0.02 0.03 0.51 18.40
+C84
+Uva var Blanca
+C85
+C86
+Uva var Rosadą *****
+Uva pasa var. Negra"
+70 82.61
+0.69
+0.47
+15.84 0.32 0.39
+24.2
+35.6
+0.94
+Tr.
+0.03
+0.04 0.58
+15.30
+73 8184 076 0.47 16:35 0.47 0.58 18.0 16.0 0.80 Tr 004 0.05 0:49 4.00
+7971 1.30 1.69
+333
+2.90
+15.38
+0.32
+59.4 76.4
+2.99
+Tr.
+0.10
+12.00
+0.60
+7.20
+€87 Uva var Negra 23878.21 10:48 0.40 58 12 038 034 130 330 080 120 005 004 044 3:00
+D
+ACEITES Y GRASAS
+01 Aceite de soya y girasol
+900005 0.00 99.95 0 119
+D2
+Aceite de girasol
+897
+0.33
+0
+99.67
+0
+D3
+Aceite de oliva
+804
+0.67 0 99 33 00037
+D4
+105
+Aceite de palma de motacu
+Aceite vegetal*****
+898
+0.20
+0
+D6
+Cebo
+895
+0
+D7 Manteca de cerdo
+99.8
+894 0.07 10 99.29 0 0.02
+6.40
+99.40
+900035099.990004
+0
+200
+0
+0.10
+D8
+Manteca vegetal
+09
+Margarina
+E
+PESCADOS Y MARISCOS
+899
+0.06
+0
+99.91
+0
+0.01
+10.00
+7246.78 0.69 80.09 0 0.05 5.0 5.00 0.90 84.00 0.02 0.11 0.41
+Et Bogultas cocidas sin hueso 90 77.72 18:42 0.8 2.18 0.88 64.0 118.0 2.90 10.00 0.05 0.10 5.61 0.00
+Boguitas enteras fritas
+E2
+148
+67.8 18.44 6.02
+4.90
+2.84 591.0
+185.0 1.60
+16.00 0.04
+0.21 7.26 0.00
+E3 Camarones de agua dulce (cocido) 134 68.5
+65 1669 3.2 9.57 2.04 59.8 15.000.0
+99
+76.02 19.15 1.32
+2.60
+0.91
+79.0 141.0 2.40
+0.00
+0.04
+0.18 4.23 0.00
+Carach 139 70.66 1946 5.28 3.47 1.13 750 1500 190 21.00 0.05 0.23 4.73 0.00
+19.09
+71.26
+E4
+Carachi cocido
+Carpa cocida
+fita
+E6
+137
+5.05
+3.74
+0.86 20.0 167.0 2.30 0.00
+0.13
+0.13 4.23
+0.00
+143 7128 19.88 0.4 154 -0.92 20.0 173.0 230 41.00 0.05 017 7.53 0.00
+E7Carpa lita
+E8
+Harina de ispi con huesos
+E9 Ispl cocida con huesos
+397 16.51 49.06 14.11
+18.50
+1.82
+2350.0 1048.0 29.40 118.00 0.16
+3.46 2.2
+0.00
+115 72.0 20.52 3.69 0.00 2.89 9180 2520
+252.0 2.30 94.00 0.08 0.40 5.33 0.00
+0.73
+2.84
+53.30
+4.07 1.20
+123 73.37 17.59 5.47
+1123.0 310.0 3.53
+193 81.78 21.72 11.58 0.46 4.48 960.0 2910 2.30 102.00 0.07 0.58 4.90 0.00
+E10
+Ispi fresco
+E11
+Ispi frito con huesos
+() Almento nuevo
+(") Alimento fortificado
+(Almento extra fortificado
+Ver descripcion de alimento
