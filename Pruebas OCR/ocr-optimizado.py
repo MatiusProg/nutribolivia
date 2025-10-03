@@ -169,7 +169,7 @@ class OCRNutriBoliviaOptimizado:
 if __name__ == "__main__":
     # CONFIGURAR ESTAS RUTAS
     CREDENTIALS_PATH = "D:\\Marcos\\silicon-vista-448115-f6-409aecd9dfad.json"
-    IMAGEN_PRUEBA = r"D:\Marcos\nutricion-UNIVALLE\imagenes_ocr\imagenEjemplo.jpeg"
+    IMAGEN_PRUEBA = r"D:\Marcos\nutricion-UNIVALLE\imagenes_ocr\imagenEjemplo2.jpeg"
     
     # Crear procesador
     procesador = OCRNutriBoliviaOptimizado(CREDENTIALS_PATH)

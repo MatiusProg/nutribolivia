@@ -124,7 +124,7 @@ class ExtraccionConservadora:
 # USO DEL SCRIPT CONSERVADOR
 if __name__ == "__main__":
     CREDENTIALS_PATH = "D:\\Marcos\\silicon-vista-448115-f6-409aecd9dfad.json"
-    IMAGEN_PRUEBA = r"D:\Marcos\nutricion-UNIVALLE\imagenes_ocr\imagenEjemplo.jpeg"
+    IMAGEN_PRUEBA = r"D:\Marcos\nutricion-UNIVALLE\imagenes_ocr\imagenEjemplo2.jpeg"
     
     extractor = ExtraccionConservadora(CREDENTIALS_PATH)
     resultado = extractor.procesar_conservador(IMAGEN_PRUEBA)
