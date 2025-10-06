@@ -8,7 +8,7 @@ A6;Arroz pre cocido;CEREALES Y DERIVADOS;352;12.04;6.95;0.60;79.73;0.64;0.69;15.
 A7;Amaranto;CEREALES Y DERIVADOS;382;11.20;13.20;7.00;66.50;6.60;2.10;249.30;459.00;6.60;;0.31;0.02;0.40;;Pendiente
 A8;Amaranto Tostado;CEREALES Y DERIVADOS;389;9.13;12.97;6.74;69.01;4.66;2.15;250.30;468.50;6.80;;0.01;0.01;1.22;;Pendiente
 A9;Avena Comercial;CEREALES Y DERIVADOS;376;9.87;13.86;4.68;69.67;1.54;1.92;52.70;408.00;4.30;;0.64;0.46;1.25;;Pendiente
-A10;Avena con Cascara;CEREALES Y DERIVADOS;363;10.80;11.60;4.80;68.40;15.34;4.40;58.40;353.00;5.30;;0.69;0.48;1.92;;Pendiente
+A10;Avena con Cascara;CEREALES Y DERIVADOS;363;10.80;11.60;4.80;68.40;16.34;4.40;58.40;353.00;5.30;;0.69;0.48;1.92;;Pendiente
 A11;Avena laminada;CEREALES Y DERIVADOS;365;9.55;13.00;4.50;68.21;1.30;4.41;54.20;397.00;4.35;;0.54;0.35;1.00;;Pendiente
 A12;Cañahua gris;CEREALES Y DERIVADOS;358;10.91;14.22;4.30;65.57;9.00;5.00;122.00;372.00;13.00;;0.45;0.06;1.01;;Pendiente
 A13;Cañahua parda;CEREALES Y DERIVADOS;352;11.79;14.06;3.88;65.15;6.90;5.20;128.20;351.00;12.80;;0.54;0.25;1.00;;Pendiente
@@ -37,7 +37,7 @@ A35;Quinua dulce;CEREALES Y DERIVADOS;368;11.70;11.68;5.23;68.46;3.94;2.93;115.0
 A36;Quinua var. Surumi;CEREALES Y DERIVADOS;370;11.00;10.83;5.00;70.37;3.40;2.80;110.00;238.90;5.00;;;;;;Pendiente
 A37;Quinua var. Qaslala;CEREALES Y DERIVADOS;378;9.23;10.38;5.26;72.29;2.77;2.84;116.20;245.20;6.70;;0.26;0.28;;;Pendiente
 A38;Trigo var. Mocho;CEREALES Y DERIVADOS;357;10.84;8.82;1.42;77.26;3.32;1.66;56.00;224.00;4.60;;0.27;0.14;3.87;;Pendiente
-A39;Trigo de Jankaquipa;CEREALES Y DERIVADOS;368;8.31;10.76;1.60;77.63;3.26;1.68;52.00;2.68;4.30;;0.22;0.11;2.00;;Pendiente
+A39;Trigo de Jankaquipa;CEREALES Y DERIVADOS;368;8.31;10.76;1.60;77.63;3.26;1.68;52.00;268.00;4.30;;0.22;0.11;2.00;;Pendiente
 A40;Trigo con grano importado;CEREALES Y DERIVADOS;353;12.01;12.40;1.59;72.34;3.00;1.76;55.60;237.30;3.68;;0.36;0.70;2.87;;Pendiente
 A41;Trigo comercial p-mote;CEREALES Y DERIVADOS;356;10.02;10.20;1.03;75.40;1.81;2.35;53.00;316.00;3.00;;0.09;0.04;2.50;;Pendiente
 A42;Trigo var. Coposu;CEREALES Y DERIVADOS;354;10.59;12.30;0.64;74.72;2.71;1.75;55.00;315.00;2.30;;0.26;0.15;2.56;;Pendiente
@@ -77,8 +77,8 @@ A75;Germen de trigo;CEREALES Y DERIVADOS;397;7.79;21.00;9.61;56.68;2.12;4.24;63.
 A76;Harinilla de trigo;CEREALES Y DERIVADOS;363.00;9.09;10.56;2.12;75.54;2.9;2.69;51.8;5.6;4.68;0.35;0.25;0.07;;;Pendiente
 A77;Harina de trigo fortificada;CEREALES Y DERIVADOS;363.00;10.2;8.03;1.26;79.95;0.21;0.56;56.3;134.2;6.53;;0.35;0.23;2.85;;Pendiente
 A78;Harina de maíz crudo;CEREALES Y DERIVADOS;372.00;7.4;8.23;1.86;80.64;1.75;0.87;118.00;173.00;3.27;0.2;0.25;2.6;;;Pendiente
-A79;Harina de maíz amarillo;CEREALES Y DERIVADOS;382.00;6.07;8.9;2.08;81.98;1.03;0.97;54.5;2.9;3.15;74.9;;;;;Pendiente
-A80;Harina de maíz morado;CEREALES Y DERIVADOS;365.00;9.67;8.5;2.17;76.68;2.6;1.88;10.5;2.95;2.4;;0.22;0.2;10.6;;Pendiente
+A79;Harina de maíz amarillo;CEREALES Y DERIVADOS;382.00;6.07;8.9;2.08;81.98;1.03;0.97;54.5;290.00;3.15;74.9;;;;;Pendiente
+A80;Harina de maíz morado;CEREALES Y DERIVADOS;365.00;9.67;8.5;2.17;76.68;2.6;1.88;10.5;295.00;2.4;;0.22;0.2;10.6;;Pendiente
 A81;Harina de maíz blanco/api;CEREALES Y DERIVADOS;368.00;10.54;4.28;2.61;81.97;1.89;1.02;12.1;189.00;293.00;;0.12;0.22;2.75;;Pendiente
 A82;Harina de maíz morado/api;CEREALES Y DERIVADOS;364.00;10.85;3.06;2.18;82.93;1.08;0.98;11.2;140.00;2.6;0.00;0.08;0.2;1.87;;Pendiente
 A83;Harina de maíz, milme y leche;CEREALES Y DERIVADOS;374.00;12.01;8.00;6.00;72.00;2.01;2.00;152.00;453.2;3.00;;;;;;Pendiente
@@ -93,7 +93,7 @@ A91;harina de trigo integral;CEREALES Y DERIVADOS;371.00;9.35;11.27;2.89;74.91;4
 A92;harina de trigo preparada para pan;CEREALES Y DERIVADOS;363.00;10.38;13.09;1.37;74.47;0.00;0.69;58.7;138.3;7.06;;0.17;0.16;2.6;;Pendiente
 A93;harinad de maiz jankaquipa (lagua);CEREALES Y DERIVADOS;383.00;9.43;10.52;5.11;73.71;2.6;1.23;45.1;210.1;3.86;;;;;;Pendiente
 A94;harina de trigo con 5% h/quinua;CEREALES Y DERIVADOS;380.00;7.26;10.22;2.33;79.45;0.45;0.74;30.00;158.00;2.70;;0.14;0.16;3.08;;Pendiente
-A95;harina precocida de maiz amarillo;CEREALES Y DERIVADOS;375.00;10.4;9.33;4.14;75015.00;2.37;1.01;7.5;225.6;8.37;1.54;;;1.33;;Pendiente
+A95;harina precocida de maiz amarillo;CEREALES Y DERIVADOS;375.00;10.4;9.33;4.14;75.15;2.47;1.01;7.5;225.6;8.37;1.54;;;1.33;;Pendiente
 A96;harin precocida de quinua con cocoa;CEREALES Y DERIVADOS;382.00;11.01;13.02;6.82;67.15;1.85;2.00;66.00;298.00;5.2;10.2;;;;;Pendiente
 A97;harina preaparada para panqueque;CEREALES Y DERIVADOS;376.00;5.52;11.32;3.4;75.00;0.01;4.5;256.5;434.00;4.18;15.00;0.15;0.10;0.10;;Pendiente
 A98;harina tostada de cereales;CEREALES Y DERIVADOS;412.00;4.3;10.8;6.67;77.16;3.5;1.07;172.3;179.3;8.16;;;;1.5;;Pendiente
@@ -120,7 +120,7 @@ A118;pan doblado;CEREALES Y DERIVADOS;354.00;18.64;9.6;6.76;63.76;0.5;1.94;63.00
 A119;pan marraqueta;CEREALES Y DERIVADOS;293.00;26.28;8.86;0.61;62.96;0.26;1.61;36.7;117.00;4.5;0.00;0.07;0.18;2.80;;Pendiente
 A120;pan redondo;CEREALES Y DERIVADOS;347.00;18.77;9.00;5.56;65.23;0.66;1.44;37.7;4.89;4.00;0.00;0.06;0.21;3.00;;Pendiente
 A121;pan con harina de centeno y avena;CEREALES Y DERIVADOS;338.00;21.00;14.00;5.2;58.8;3.03;1.00;70.00;172.2;4.01;0.00;;;;;Pendiente
-A122;pan con harina de quinua, soya y maiz;CEREALES Y DERIVADOS;386.00;12.00;10.5;9.5;64.5;1.00;1.5;109.5;3.36;8.2;19.00;;;;;Pendiente
+A122;pan con harina de quinua, soya y maiz;CEREALES Y DERIVADOS;386.00;12.00;10.5;9.5;64.5;1.00;1.5;109.5;236.00;8.2;19.00;;;;;Pendiente
 A123;pan con harina de soya y trigo;CEREALES Y DERIVADOS;341.00;22.9;11.92;6.69;58.21;1.64;1.7;132.86;63.3;6.9;5.3;;;;;Pendiente
 A124;pan con harina de trigo y amaranto;CEREALES Y DERIVADOS;331.00;26.16;7.87;6.61;60.1;2.5;1.27;129.1;126.1;4.05;2.2;;;;;Pendiente
 A125;pan con harina de trigo y maiz;CEREALES Y DERIVADOS;337.00;25.99;12.38;9.29;50.92;1.64;0.92;65.3;87.5;12.87;30.00;;;;;Pendiente
@@ -133,7 +133,7 @@ A131;pan blanco con leche;CEREALES Y DERIVADOS;340.00;20.72;11.12;5.27;61.94;0.6
 A132;pan dulce con harina de trigo y quinua;CEREALES Y DERIVADOS;363.00;18.5;10.36;8.21;61.93;2.4;1.00;39.5;163.5;4.31;5.8;;;;;Pendiente
 A133;pan con harina de soya y trigo;CEREALES Y DERIVADOS;332.00;24.00;12.00;8.00;53.00;1.05;1.00;56.00;115.00;3.62;4.5;;;;;Pendiente
 A134;pan integral con fibra;CEREALES Y DERIVADOS;328.00;20.68;10.2;3.8;63.34;7.5;1.98;65.2;192.2;9.37;12.3;;;;;Pendiente
-A135;pan con harina integral de trigo y wikaparu;CEREALES Y DERIVADOS;348.00;19.00;7.00;8.00;62.00;2.6;1.00;12.00;2.83;5.47;0.00;;;;;Pendiente
+A135;pan con harina integral de trigo y wikaparu;CEREALES Y DERIVADOS;348.00;19.00;7.00;8.00;62.00;2.6;1.00;12.00;283.00;5.47;0.00;;;;;Pendiente
 A136;pan con harina integral de trigo y cañahua;CEREALES Y DERIVADOS;452.00;22.06;24.43;9.68;66.81;5.2;1.45;70.1;143.2;12.36;12.3;;;;;Pendiente
 A137;pan con harina integral de trigo y amaranto;CEREALES Y DERIVADOS;349.00;22.68;14.51;9.22;51.89;2.02;1.7;84.8;188.4;14.27;9.5;;;;;Pendiente
 A138;pan harina integral de trigo y quinua;CEREALES Y DERIVADOS;352.00;20.02;16.00;8.02;53.95;2.75;2.01;38.00;274.00;13.02;6.4;;;;;Pendiente
@@ -152,6 +152,8 @@ A150;quinua tostada molida;CEREALES Y DERIVADOS;401.00;3.00;10.00;4.02;81.16;2.0
 A151;salvado de avena en polvo;CEREALES Y DERIVADOS;399.00;2.00;8.00;3.00;85.00;15.00;2.00;45.00;220.00;5.00;2.00;;;;;Pendiente
 A152;salvado de arroz;CEREALES Y DERIVADOS;402.00;9.3;12.31;14.83;54.93;9.65;8.63;49.00;443.00;7.62;2.7;;;;;Pendiente
 A153;semola;CEREALES Y DERIVADOS;376.00;7.29;11.34;1.89;78.36;3.47;1.12;32.4;114.5;3.82;;0.15;1.09;1.5;;Pendiente
-A154;trigo partido (chaque);CEREALES Y DERIVADOS;347.00;10.8;120.5;2.00;71.8;10.9;2.00;60.00;250.00;1.6;;0.33;0.26;1.95;;Pendiente
+A154;trigo partido (chaque);CEREALES Y DERIVADOS;347.00;10.8;10.50;2.00;71.8;10.9;2.00;60.00;250.00;1.6;;0.33;0.26;1.95;;Pendiente
 A155;trigo afrachillo;CEREALES Y DERIVADOS;370.00;6.88;11.27;3.57;73.19;9.4;5.09;71.00;728.00;9.5;6.00;0.36;0.88;8.69;;Pendiente
 A156;trigo machacado con soya;CEREALES Y DERIVADOS;383.00;6.28;19.43;3.5;68.45;2.3;2.21;148.2;338.5;5.6;;;;;;Pendiente
+B1;Acelga hojas con tallo;VEGETALES Y DERIVADOS;31.00;91.59;1.93;0.35;5.01;1.31;1.12;72.00;34.00;3.3;473;0.04;0.24;0.68;28;Pendiente
+B2;Acelga hojas sin tallo;VEGETALES Y DERIVADOS;35.00;90.19;2.06;0.36;5.99;1.22;1.3;110.20;42.00;4.79;576.6;0.04;0.25;0.6;16.05;Pendiente
